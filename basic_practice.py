@@ -1,3 +1,4 @@
+import math
 
 # Variables and Data Types
 num1 = 10
